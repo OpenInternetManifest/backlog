@@ -734,3 +734,68 @@ Als je terug bent, drukken we op enter en begint de uittocht.Tot zo.
  9.⁠ ⁠*We bouwen het niet voor onszelf, we bouwen het voor onze kinderen* – als we nu niets doen is het straks écht 1984  
 10.⁠ ⁠*Concreet actieplan 2026-2030* – wie, wat, waar, hoeveel geld, en hoe jij kunt aanhaken
 
+*OIM deel 1, 2 en 3*
+
+Thesis 12 t/m 20
+Thesis 12
+Het internet moet eind-tot-eind neutraal zijn. Geen enkele partij – overheid noch corporation – mag pakketten vertragen, blokkeren of prioriteren op basis van inhoud, herkomst of bestemming.
+
+Thesis 13
+Netneutraliteit is geen regelgeving, het is een natuurwet van het open internet. Wie eraan tornt, tornt aan de fundamenten van vrije meningsuiting.
+
+Thesis 14
+Decentralisatie is de enige duurzame verdediging tegen censuur en monopolievorming. Eén knooppunt mag nooit het hele netwerk kunnen uitschakelen.
+
+Thesis 15
+DNS moet gedecentraliseerd en onvervalsbaar zijn. Handshake, ENS en IPFS name systems zijn de toekomst; ICANN en nationale root-servers zijn het verleden.
+
+Thesis 16
+Elke burger heeft het recht op een eigen sovereign node. Overheden en bedrijven die full-node software of mesh-netwerken verbieden, schenden mensenrechten.
+
+Thesis 17
+Bandwidth is een mensenrecht in de 21e eeuw. Statelijke of private throttling van breedband zonder gerechtelijk bevel is een vorm van digitale onderdrukking.
+
+Thesis 18
+De fysieke laag (kabels, zendmasten, satellieten) mag nooit in handen zijn van minder dan zes onafhankelijke partijen per land. Alles daaronder (Starlink, traditionele telecom) is een bedreiging voor de open samenleving.
+
+Thesis 19
+Open hardware en open spectrum zijn essentieel. Elk gesloten 5G/6G modem, elk proprietary WiFi-protocol is een potentieel backdoor-apparaat.
+
+Thesis 20
+Het recht op anonymous routing (Tor, I2P, Lokinet, Nym) is ononderhandelbaar. Wie anonimiteit criminaliseert, criminaliseert dissidentie.
+
+Deel 2 eindigt hier. Het open internet bestaat alleen zolang haar infrastructuur niet te breken of te bezitten is.
+
+Open Internet Manifest – Deel 3
+De economie van het open internet
+Thesis 21 t/m 30
+Thesis 21
+Data is geen olie, data is arbeid. De gebruiker is de enige rechtmatige eigenaar van de data die hij genereert.
+
+Thesis 22
+Surveillance-capitalisme is diefstal met extra stappen. Ad-tech die gebruikers zonder expliciete, granulaire en herroepbare toestemming volgt, moet worden verboden.
+
+Thesis 23
+Microbetalingen en waardevaste internet-native valuta (Bitcoin, Monero, etc.) zijn de enige eerlijke manier om makers direct te belonen zonder platformheffingen van 30–70 %.
+
+Thesis 24
+Het recht om te betalen zonder intermediair is een fundamenteel recht. Elke betaalmuur die alleen creditcard of BigTech-diensten accepteert, is een vorm van digitale uitsluiting.
+
+Thesis 25
+Open standaarden voor identiteit (self-sovereign identity, DID’s) moeten de gesloten silo’s van Google/Apple/Facebook vervangen. Niemand mag gedwongen worden een account bij een BigTech-bedrijf aan te maken om te kunnen deelnemen aan de samenleving.
+
+Thesis 26
+Algoritmische feeds die verslaving maximaliseren in plaats van informatiekwaliteit zijn misdadig. Chronologische feeds moeten de wettelijke default zijn.
+
+Thesis 27
+Interoperabiliteit is een mensenrecht. Elk sociaal netwerk met meer dan 10 miljoen gebruikers moet verplichte, open API’s aanbieden onder een royalty-vrije licentie.
+
+Thesis 28
+Het recht om je eigen data te exporteren én om je account direct en volledig te verwijderen (inclusief alle afgeleide trainingsdata) is niet onderhandelbaar.
+
+Thesis 29
+Decentrale alternatieven (Mastodon, Matrix, PeerTube, Nostr, Farcaster, Lens) moeten dezelfde discoverability en netwerk-effecten krijgen als centrale platforms. Overheden en onderwijsinstellingen moeten actief decentrale protocollen adopteren.
+
+Thesis 30
+Het open internet is geen product, het is de commons van de mensheid. Wie het privatiseert, rooft van iedereen – ook van toekomstige generaties.
+
